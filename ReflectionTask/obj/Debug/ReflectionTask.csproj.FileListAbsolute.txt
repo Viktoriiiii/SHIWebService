@@ -1,0 +1,14 @@
+G:\Школа инженера\ДЗ1\ReflectionTask\bin\Debug\ReflectionTask.exe.config
+G:\Школа инженера\ДЗ1\ReflectionTask\bin\Debug\ReflectionTask.exe
+G:\Школа инженера\ДЗ1\ReflectionTask\bin\Debug\ReflectionTask.pdb
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.csproj.AssemblyReference.cache
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.csproj.SuggestedBindingRedirects.cache
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.Properties.Resources.resources
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.csproj.GenerateResource.cache
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.csproj.CoreCompileInputs.cache
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.exe
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.pdb
+G:\Школа инженера\ДЗ1\ReflectionTask\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+G:\Школа инженера\ДЗ1\ReflectionTask\bin\Debug\Newtonsoft.Json.dll
+G:\Школа инженера\ДЗ1\ReflectionTask\bin\Debug\Newtonsoft.Json.xml
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.csproj.CopyComplete
